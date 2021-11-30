@@ -1,0 +1,10 @@
+---
+title: "About me"
+description: |
+  I'm Ian from South Korea. I do research on linguistic typology.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

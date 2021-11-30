@@ -1,0 +1,10 @@
+---
+title: "Publications"
+bibliography: publications.bib
+csl: generic-style-rules-for-linguistics.csl
+nocite: "@*"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
