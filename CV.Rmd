@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-```{r file}
+```{r echo=FALSE}
 xfun::embed_file("CV.pdf")
 ```
 
