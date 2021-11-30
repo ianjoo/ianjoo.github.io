@@ -1,7 +1,8 @@
 ---
 title: "About me"
 description: |
-  I'm Ian from South Korea. I do research on linguistic typology.
+  I'm Ian from South Korea, currently a PhD student at the Hong Kong Polytechnic University doing research on linguistic typology.
+  
 ---
 
 ```{r setup, include=FALSE}

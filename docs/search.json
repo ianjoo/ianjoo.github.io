@@ -3,17 +3,25 @@
     {
       "path": "about.html",
       "title": "About me",
-      "description": "I'm Ian from South Korea. I do research on linguistic typology.",
+      "description": "I'm Ian from South Korea, currently a PhD student at the Hong Kong Polytechnic University doing research on linguistic typology.\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-11-30T14:52:27+08:00"
+      "last_modified": "2021-11-30T15:22:11+08:00"
+    },
+    {
+      "path": "contact.html",
+      "title": "Contact",
+      "description": "E-mail: ian.joo@connect.polyu.hk",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-11-30T15:22:12+08:00"
     },
     {
       "path": "CV.html",
       "title": "Curriculum Vitae",
       "author": [],
       "contents": "\n\nDownload CV.pdf\n\n\n\n\n",
-      "last_modified": "2021-11-30T14:52:27+08:00"
+      "last_modified": "2021-11-30T15:22:12+08:00"
     },
     {
       "path": "index.html",
@@ -21,21 +29,21 @@
       "description": "Welcome to my website, where you can know more about me and my research.\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-11-30T14:52:28+08:00"
+      "last_modified": "2021-11-30T15:22:13+08:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\nProjects\n\n\n\n",
-      "last_modified": "2021-11-30T14:52:28+08:00"
+      "last_modified": "2021-11-30T15:22:13+08:00"
     },
     {
       "path": "publications.html",
       "title": "Publications",
       "author": [],
       "contents": "\n\n\n\nKoo, Jea-hyoun & Joo, Ian. 2022. Japanese-korean brush-talk during the early edo period, 1603–1867. In Li, David C. S. & Aoyama, Reijiro & Wong, Tak-Sum (eds.), Brush conversation in the sinographic cosmopolis: Interactional cross-border communication using literary sinitic in early modern east asia (Routledge Studies in the Early History of Asia). 1st edn. London; New York: Routledge.\n\n\nJoo, Ian & Liu, Meichun. 2021. Caused-motion and caused-position: Syntactic patterns and semantic networks. Studies in Language 45(2). 470–498. (doi:10.1075/sl.18067.joo) (Download)\n\n\nJoo, Ian. 2021. The etymology of korean ssal “uncooked grain” and pap “cooked grain”. Cahiers de linguistique Asie orientale 50(1). 94–110. (doi:10.1163/19606028-bja10013) (Download)\n\n\nJoo, Ian. 2020. Phonosemantic biases found in leipzig-jakarta lists of 66 languages. Linguistic Typology 24(1). 1–12. (doi:10.1515/lingty-2019-0030) (Download)\n\n\n\n\n",
-      "last_modified": "2021-11-30T14:52:29+08:00"
+      "last_modified": "2021-11-30T15:22:14+08:00"
     }
   ],
   "collections": []
