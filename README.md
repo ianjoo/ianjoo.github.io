@@ -1,1 +1,1 @@
-ianjoo
+Ian Joo's personal website
