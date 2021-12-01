@@ -1,10 +1,23 @@
 ---
 title: "Publications"
-bibliography: publications.bib
-nocite: "@*"
-csl: generic-style-rules-for-linguistics.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r init, echo=FALSE}
+library("RefManageR")
+papers <- ReadBib("papers.bib", .Encoding = "UTF-8")
+chapters <- ReadBib("chapters.bib", .Encoding = "UTF-8")
+```
+
+<h3>Peer-reviewed journal articles</h3>
+
+```{r, results='asis', echo=FALSE}
+NoCite(papers)
+PrintBibliography(papers, .opts = list(style = "html", bib.style = "authoryear", sorting = "ydnt"))
+```
+
+<h3>Book chapters</h3>
+
+```{r, results='asis', echo=FALSE}
+NoCite(chapters)
+PrintBibliography(chapters, .opts = list(style = "html", bib.style = "authoryear", sorting = "ydnt"))
 ```
