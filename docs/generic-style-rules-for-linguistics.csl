@@ -29,7 +29,7 @@
           <choose>
             <if variable="author">
               <names variable="editor">
-                <label form="verb-short" text-case="capitalize-first" suffix=" "/>
+                <label form="verb-short" suffix=" "/>
                 <name delimiter=" &amp; " delimiter-precedes-et-al="never" name-as-sort-order="all"/>
               </names>
             </if>
@@ -37,7 +37,7 @@
           <choose>
             <if variable="author editor" match="any">
               <names variable="translator">
-                <label form="verb-short" text-case="capitalize-first" suffix=" "/>
+                <label form="verb-short" suffix=" "/>
                 <name delimiter=" &amp; " delimiter-precedes-et-al="never" name-as-sort-order="all"/>
               </names>
             </if>
@@ -49,7 +49,7 @@
   <macro name="container-contributors">
     <choose>
       <if type="chapter paper-conference" match="any">
-        <text term="in" text-case="capitalize-first" suffix=" "/>
+        <text term="in" suffix=" "/>
         <group delimiter=", ">
           <choose>
             <if variable="author">
@@ -88,10 +88,10 @@
       <if type="personal_communication">
         <choose>
           <if variable="genre">
-            <text variable="genre" text-case="capitalize-first"/>
+            <text variable="genre"/>
           </if>
           <else>
-            <text term="letter" text-case="capitalize-first"/>
+            <text term="letter"/>
           </else>
         </choose>
       </if>
@@ -133,13 +133,13 @@
   </macro>
   <macro name="interviewer">
     <names variable="interviewer" delimiter=", ">
-      <label form="verb" text-case="capitalize-first" suffix=" "/>
+      <label form="verb" suffix=" "/>
       <name delimiter=" &amp; " delimiter-precedes-et-al="never" name-as-sort-order="all"/>
     </names>
   </macro>
   <macro name="archive">
     <group delimiter=", ">
-      <text variable="archive_location" text-case="capitalize-first"/>
+      <text variable="archive_location"/>
       <text variable="archive"/>
       <text variable="archive-place"/>
     </group>
@@ -158,7 +158,7 @@
       <text variable="URL"/>
       <text variable="note"/>
       <group delimiter=" " suffix=".">
-        <text term="accessed" text-case="capitalize-first"/>
+        <text term="accessed"/>
         <date variable="accessed" form="text" date-parts="year-month-day"/>
       </group>
     </group>
@@ -168,7 +168,7 @@
       <if variable="title" match="none">
         <choose>
           <if type="personal_communication" match="none">
-            <text variable="genre" text-case="capitalize-first"/>
+            <text variable="genre"/>
           </if>
         </choose>
       </if>
@@ -219,7 +219,7 @@
       <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
         <group delimiter=". ">
           <group delimiter=" ">
-            <text term="volume" form="short" text-case="capitalize-first"/>
+            <text term="volume" form="short"/>
             <number variable="volume" form="numeric"/>
           </group>
           <group delimiter=" ">
@@ -324,13 +324,13 @@
               <choose>
                 <if variable="genre" match="none">
                   <group delimiter=" ">
-                    <text term="presented at" text-case="capitalize-first"/>
+                    <text term="presented at"/>
                     <text variable="event"/>
                   </group>
                 </if>
                 <else>
                   <group delimiter=" ">
-                    <text variable="genre" text-case="capitalize-first"/>
+                    <text variable="genre"/>
                     <text term="presented at"/>
                     <text variable="event"/>
                   </group>
@@ -338,7 +338,7 @@
               </choose>
             </if>
             <else>
-              <text variable="genre" text-case="capitalize-first"/>
+              <text variable="genre"/>
             </else>
           </choose>
           <text variable="event-place"/>
@@ -349,13 +349,13 @@
   <macro name="description">
     <group delimiter=". ">
       <text macro="interviewer"/>
-      <text variable="medium" text-case="capitalize-first"/>
+      <text variable="medium"/>
     </group>
     <choose>
       <if variable="title" match="none"/>
       <else-if type="thesis speech" match="any"/>
       <else>
-        <text variable="genre" text-case="capitalize-first"/>
+        <text variable="genre"/>
       </else>
     </choose>
   </macro>

@@ -1,8 +1,8 @@
 ---
 title: "Publications"
 bibliography: publications.bib
-csl: generic-style-rules-for-linguistics.csl
 nocite: "@*"
+csl: generic-style-rules-for-linguistics.csl
 ---
 
 ```{r setup, include=FALSE}
