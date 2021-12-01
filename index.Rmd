@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](profile.jpg){ width=20% }
 
-Welcome my website. I'm Ian from South Korea, currently a PhD student at the Hong Kong Polytechnic University doing research on linguistic typology.
+Welcome to my website. I'm Ian from South Korea, currently a PhD student at the Hong Kong Polytechnic University doing research on linguistic typology.
