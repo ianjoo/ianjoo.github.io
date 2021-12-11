@@ -4,6 +4,9 @@ title: "Publications"
 
 <h3>Peer-reviewed journal articles</h3>
 
+* Joo, Ian (accepted). “The sound symbolism of food: The frequency of initial /PA-/ in words for
+(staple) food”. In: <em>Linguistics</em>. [(Download)](PA.pdf)
+
 * Joo, Ian and [Meichun Liu](https://orcid.org/0000-0001-9471-7181) (2021). “Caused-Motion and Caused-Position: Syntactic Patterns and Semantic Networks”. In: <em>Studies in Language</em> 45.2, pp. 470–498. doi: 10.1075/sl.18067.joo [(Download)](caused.pdf)
 
 * Joo, Ian (2021). “The etymology of Korean ssal ‘uncooked grain’ and pap ‘cooked grain’”. In: <em>Cahiers de linguistique Asie orientale</em> 50.1, pp. 94–110. doi: 10.1163/19606028-bja10013 [(Download)](grain_preprint.pdf)
