@@ -1,0 +1,30 @@
+---
+title: "Artworks"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The head of a Buddha sculpture embedded in a tree (Ayutthaya, Thailand)
+
+![](Ayutthaya.jpg){ width=50% }
+
+The giants of linguistics
+
+![](Linguists.jpg){ width=80% }
+
+Buddha, facing the demon challenging his enlightenment
+
+![](Buddha.jpg){ width=80% }
+
+A birthday gift for grandma
+
+![](Grandma.jpg){ width=50% }
+
+[A Burmese nun pleading the police not to shoot civilians](https://www.ucanews.com/news/a-brave-nun-makes-a-stand-in-myanmar/91607)
+
+![](Myanmar.jpg){ width=80% }
+
+
+

@@ -1,9 +1,25 @@
 ---
-title: "About me"
-
+title: "About"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+* My name is **Ian Joo** (주이안 in Korean, 朱易安 in Chinese). My last name, Joo, is pronounced [tɕʰù]. My first name, Ian, is pronounced [i.an], and has the meaning of ease (<em>i</em>) and comfort (<em>an</em>).
+
+* I was born in [Daejeon](https://en.wikipedia.org/wiki/Daejeon), South Korea. While it is not a tourist city, it is well known for its [hot spring](https://en.wikipedia.org/wiki/Yuseong_Foot_Spa), [science town](https://en.wikipedia.org/wiki/Daedeok_Innopolis), and [a famous bakery](https://www.sungsimdangmall.co.kr/).
+
+* I did my bachelor's in Literary Studies (focusing on Francophone literature) at [Université Laval](https://www.ulaval.ca/en) (Québec City, Canada), and did my Master's in linguistics at National Chiao Tung University (Hsinchu, Taiwan), which is now [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/en/). My master's thesis is now [published at the journal Linguistic Typology](https://doi.org/10.1515/lingty-2019-0030).
+
+* I stayed at the [Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/en) for a year as a doctoral student, but did not continue my doctoral studies there for personal reasons.
+
+* I'm currently based in **Hong Kong**, doing my PhD at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Dr. [Yu-Yin Hsu](https://sites.google.com/site/youyinxu/) and the co-supervision of Prof. [David Chor Shing Li](https://scholar.google.com/citations?user=dzmp5e4AAAAJ). 
+
+* My research interests are mainly **linguistic iconicity** and **areal linguistics**. In other words, I am interested in (i) the resemblance between form and meaning and (ii) how languages that are spoken close by develop similarities or dissimilarities.
+
+* For my doctoral thesis, I am working on compiling **EuraPhon**, a phonological database of more than 700 Eurasian languages, in order to detect phonological convergence patterns across Eurasia.
+
+* While not doing research, I enjoy hiking, painting, traveling, playing badminton, reading novels, and watching Disney films.
+
+* For details, [download my CV.](CV.pdf)
