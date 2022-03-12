@@ -6,14 +6,14 @@ title: "Publications"
 
 * Joo, Ian, Yu-Yin Hsu, and Emmanuele Chersoni (accepted). “Iconic bias in Italian spatial demonstratives”. In: <em>Australian Journal of Linguistics.</em>
 
-* Joo, Ian (accepted). “The sound symbolism of food: The frequency of initial /PA-/ in words for (staple) food”. In: <em>Linguistics</em>. [(Download)](PA.pdf)
+* Joo, Ian (accepted). “The sound symbolism of food: The frequency of initial /PA-/ in words for (staple) food”. In: <em>Linguistics</em>. [(Download)](joo2022sound.pdf)
 
-* Joo, Ian and Meichun Liu (2021). “Caused-Motion and Caused-Position: Syntactic Patterns and Semantic Networks”. In: <em>Studies in Language</em> 45.2, pp. 470–498. doi: 10.1075/sl.18067.joo [(Download)](caused.pdf)
+* Joo, Ian and Meichun Liu (2021). “Caused-Motion and Caused-Position: Syntactic Patterns and Semantic Networks”. In: <em>Studies in Language</em> 45.2, pp. 470–498. DOI: 10.1075/sl.18067.joo [(Download)](joo2021caused.pdf)
 
-* Joo, Ian (2021). “The etymology of Korean ssal ‘uncooked grain’ and pap ‘cooked grain’”. In: <em>Cahiers de linguistique Asie orientale</em> 50.1, pp. 94–110. doi: 10.1163/19606028-bja10013 [(Download)](grain_preprint.pdf)
+* Joo, Ian (2021). “The etymology of Korean ssal ‘uncooked grain’ and pap ‘cooked grain’”. In: <em>Cahiers de linguistique Asie orientale</em> 50.1, pp. 94–110. DOI: 10.1163/19606028-bja10013 [(Download)](joo2021etymology.pdf)
 
-* — (2020). “Phonosemantic Biases Found in Leipzig-Jakarta Lists of 66 Languages”. In: <em>Linguistic Typology</em> 24.1, pp. 1–12. doi: 10.1515/lingty-2019-0030 [(Download)](joo2020.pdf)
+* — (2020). “Phonosemantic Biases Found in Leipzig-Jakarta Lists of 66 Languages”. In: <em>Linguistic Typology</em> 24.1, pp. 1–12. DOI: 10.1515/lingty-2019-0030 [(Download)](joo2020phonosemantic.pdf)
 
 <h3>Book chapters</h3>
 
-* Koo, Jea-hyoun and Ian Joo (2022). “Japanese-Korean Brush-talk during the Early Edo Period”. In: <em>Brush Conversation in the Sinographic Cosmopolis: Interactional Cross-border Communication Using Literary Sinitic in Early Modern East Asia.</em> Ed. by David C. S. Li, Reijiro Aoyama, and Tak-Sum Wong. 1st ed. Routledge Studies in the Early History of Asia. London; New York: Routledge.
+* Koo, Jea-hyoun and Ian Joo (2022). “Japanese-Korean Brush-talk during the Early Edo Period, 1603–1711”. In: <em>Brush Conversation in the Sinographic Cosmopolis: Interactional Cross-border Communication Using Literary Sinitic in Early Modern East Asia.</em> Ed. by David C. S. Li, Reijiro Aoyama, and Tak-Sum Wong. 1st ed. Routledge Studies in the Early History of Asia. London; New York: Routledge, pp. 243-256. DOI: 10.4324/9781003048176-12.
