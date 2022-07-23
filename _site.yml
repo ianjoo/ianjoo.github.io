@@ -12,6 +12,8 @@ navbar:
       href: about.html
     - text: "Publications"
       href: publications.html
+    - text: "Phonotacticon Markdown (in progress)"
+      href: Phonotacticon.html
     - text: "Artworks"
       href: artworks.html
     - text: "Contact"
