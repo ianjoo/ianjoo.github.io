@@ -16,4 +16,4 @@ title: "Publications"
 
 <h3>Book chapters</h3>
 
-* Koo, Jea-hyoun and Ian Joo (2022). “Japanese-Korean Brush-talk during the Early Edo Period, 1603–1711”. In: <em>Brush Conversation in the Sinographic Cosmopolis: Interactional Cross-border Communication Using Literary Sinitic in Early Modern East Asia.</em> Ed. by David C. S. Li, Reijiro Aoyama, and Tak-Sum Wong. 1st ed. Routledge Studies in the Early History of Asia. London; New York: Routledge, pp. 243-256. DOI: [10.4324/9781003048176-12](https://doi.org/10.4324/9781003048176-12)
+* Koo, Jea-hyoun and Ian Joo (2022). “Japanese-Korean Brush-talk during the Early Edo Period, 1603–1711”. In: <em>Brush Conversation in the Sinographic Cosmopolis: Interactional Cross-border Communication Using Literary Sinitic in Early Modern East Asia.</em> Ed. by David C. S. Li, Reijiro Aoyama, and Tak-Sum Wong. 1st ed. Routledge Studies in the Early History of Asia. London; New York: Routledge, pp. 243-256. DOI: [10.4324/9781003048176-12](https://doi.org/10.4324/9781003048176-12) [(Download)](koo2022japanese.pdf)
