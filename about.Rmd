@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * My name is **Ian Joo** (주이안 in Korean, 朱易安 in Chinese). My last name, Joo, is pronounced [tɕʰù]. My first name, Ian, is pronounced [i.an], and has the meaning of ease (<em>i</em>) and comfort (<em>an</em>).
 
-* I was born in [Daejeon](https://en.wikipedia.org/wiki/Daejeon), South Korea. My native language is Korean.
+* I was born in [Daejeon](https://en.wikipedia.org/wiki/Daejeon), South Korea.
 
 * I did my bachelor's in Literary Studies (focusing on Francophone literature) at [Université Laval](https://www.ulaval.ca/en) (Québec City, Canada), and did my Master's in linguistics at National Chiao Tung University (Hsinchu, Taiwan), which is now [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/en/). My master's thesis is now [published at the journal Linguistic Typology](https://doi.org/10.1515/lingty-2019-0030).
 
@@ -18,7 +18,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * My research interests are mainly **linguistic iconicity** and **areal linguistics**. In other words, I am interested in (i) the resemblance between form and meaning and (ii) how languages that are spoken close by develop similarities or dissimilarities.
 
-* For my doctoral thesis, I am working on compiling **Phonotacticon 1.0**, a phonological database of more than 600 Eurasian languages, in order to detect phonological convergence patterns across Eurasia.
+* For my doctoral thesis, I am working on compiling **Phonotacticon 1.0**, a phonological database of around 500 Eurasian languages, in order to detect phonological convergence patterns across Eurasia.
+
+* From 2023, I will be joining the [Visual Language Lab](https://www.visuallanguagelab.com/) led by Dr. Neil Cohn at [Tilburg University](https://www.tilburguniversity.edu/), first as an exchange student and (after obtaining my doctoral degree) as a postdoctoral student.
 
 * While not doing research, I enjoy hiking, painting, traveling, playing badminton, reading novels, and watching Disney films.
 
