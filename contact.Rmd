@@ -6,6 +6,6 @@ title: "Contact"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-E-mail: i.joo@tilburguniversity.edu
+E-mail: ian.joo@connect.polyu.hk
 
 Twitter: [\@ian_joo_korea](https://twitter.com/ian_joo_korea)

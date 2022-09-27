@@ -20,6 +20,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * For my doctoral thesis, I am working on compiling **Phonotacticon 1.0**, a phonological database of around 500 Eurasian languages, in order to detect phonological convergence patterns across Eurasia.
 
-* From 2023, I will be joining the [Visual Language Lab](https://www.visuallanguagelab.com/) led by Dr. Neil Cohn at [Tilburg University](https://www.tilburguniversity.edu/), first as an exchange student and (after obtaining my doctoral degree) as a postdoctoral researcher
+* From September 2023, I will assume the position of a lecturer at [Nagoya University of Commerce & Business](https://www.nucba.ac.jp/en/).
 
 * While not doing research, I enjoy hiking, painting, traveling, playing badminton, reading novels, and watching Disney films.
