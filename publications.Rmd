@@ -4,7 +4,7 @@ title: "Publications"
 
 <h3>Peer-reviewed journal articles</h3>
 
-* Joo, Ian. "The sound symbolism of food: the frequency of initial /PA-/ in words for (staple) food". In: <em>Linguistics</em>, 61.1, 2023, pp. 33-46. DOI: [10.1515/ling-2021-0127](https://doi.org/10.1515/ling-2021-0127) [(Download)](joo2023sound.pdf)
+* Joo, Ian (2023). "The sound symbolism of food: the frequency of initial /PA-/ in words for (staple) food". In: <em>Linguistics</em>, 61.1, pp. 33-46. DOI: [10.1515/ling-2021-0127](https://doi.org/10.1515/ling-2021-0127) [(Download)](joo2023sound.pdf)
 
 * Joo, Ian, Yu-Yin Hsu, and Emmanuele Chersoni (2022). “Iconic bias in Italian spatial demonstratives”. In: <em>Australian Journal of Linguistics</em>, 42.1, pp. 57-74. DOI: [10.1080/07268602.2022.2056410](https://doi.org/10.1080/07268602.2022.2056410) [(Download)](joo2022iconic.pdf)
 
