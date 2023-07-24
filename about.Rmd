@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I'm currently based in **Hong Kong**, doing my PhD at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Dr. [Yu-Yin Hsu](https://sites.google.com/site/youyinxu/) and the co-supervision of Prof. [David Chor Shing Li](https://scholar.google.com/citations?user=dzmp5e4AAAAJ). 
 
-* My research interests are mainly **linguistic iconicity** and **areal linguistics**. In other words, I am interested in (i) the resemblance between form and meaning and (ii) how languages that are spoken close by develop similarities or dissimilarities.
+* My field of expertise is **phonological typology**. My research interests are mainly **linguistic iconicity** and **areal linguistics**. In other words, I am interested in (i) the resemblance between form and meaning and (ii) how languages that are spoken close by develop similarities or dissimilarities.
 
 * For my doctoral thesis, I am working on compiling **Phonotacticon 1.0**, a phonological database of around 500 Eurasian languages, in order to detect phonological convergence patterns across Eurasia.
 
