@@ -12,12 +12,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I did my bachelor's in Literary Studies (focusing on Francophone literature) at [Université Laval](https://www.ulaval.ca/en) (Québec City, Canada), and did my Master's in linguistics at National Chiao Tung University (Hsinchu, Taiwan), which is now [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/en/). My master's thesis is now [published at the journal Linguistic Typology](https://doi.org/10.1515/lingty-2019-0030).
 
-* I am doing my PhD at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Dr. [Yu-Yin Hsu](https://sites.google.com/site/youyinxu/) and the co-supervision of Prof. [David Chor Shing Li](https://scholar.google.com/citations?user=dzmp5e4AAAAJ). 
+* I am doing my PhD at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Dr. [Yu-Yin Hsu](https://sites.google.com/site/youyinxu/) and the co-supervision of Prof. [David Chor Shing Li](https://scholar.google.com/citations?user=dzmp5e4AAAAJ). I expect to attain my Ph. D. degree in early 2024.
 
 * From September 2023, I am a lecturer at [Nagoya University of Commerce & Business](https://www.nucba.ac.jp/en/).
 
 * My field of expertise is **linguistic typology**. My research interests are mainly **linguistic iconicity** and **areal linguistics**. In other words, I am interested in (i) the resemblance between form and meaning and (ii) how languages that are spoken close by develop similarities or dissimilarities.
 
-* For my doctoral thesis, I am working on compiling **Phonotacticon 1.0**, a phonological database of around 500 Eurasian languages, in order to detect phonological convergence patterns across Eurasia.
+* For my doctoral thesis, I have compiled [Phonotacticon 1.0](https://www.researchsquare.com/article/rs-3269302/v1), a phonological database of 516 spoken languages of Eurasia, in order to detect phonological convergence patterns across Eurasia.
 
 * While not doing research, I enjoy hiking, painting, traveling, playing badminton, reading novels, and watching Disney films.
