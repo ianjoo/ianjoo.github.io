@@ -12,8 +12,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * From September 2023, I am a lecturer at [Nagoya University of Commerce & Business](https://www.nucba.ac.jp/en/). From April 2024, I will be an associate professor at [Otaru University of Commerce](https://english.otaru-uc.ac.jp/).
 
-* I have defended my doctoral thesis, *Phonological areas in Eurasia*, at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Dr. [Yu-Yin Hsu](https://sites.google.com/site/youyinxu/) and the co-supervision of Prof. [David Chor Shing Li](https://scholar.google.com/citations?user=dzmp5e4AAAAJ). For my thesis, I have compiled [Phonotacticon 1.0](https://www.researchsquare.com/article/rs-3269302/v1), a phonological database of 516 spoken languages of Eurasia, in order to detect phonological convergence patterns across Eurasia. 
-
 * My field of expertise is **linguistic typology**. My research interests are mainly **linguistic iconicity** and **areal linguistics**. In other words, I am interested in (i) the resemblance between form and meaning and (ii) how languages that are spoken close by develop similarities or dissimilarities.
+
+* I have defended my doctoral thesis [Phonological areas in Eurasia](Thesis.pdf) at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) under the supervision of Dr. [Yu-Yin Hsu](https://sites.google.com/site/youyinxu/) and the co-supervision of Prof. [David Chor Shing Li](https://scholar.google.com/citations?user=dzmp5e4AAAAJ). 
+
+* Currently, I am focusing on building and analyzing [Phonotacticon](https://zenodo.org/records/10623743), a cross-linguistic database of phonotactic information.
 
 * While not doing research, I enjoy hiking, painting, traveling, playing badminton, reading novels, and watching Disney films.

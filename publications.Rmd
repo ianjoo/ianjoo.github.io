@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+<h3>Thesis</h3>
+
+* Joo, Ian (2024). "Phonological areas in Eurasia." PhD thesis. The Hong Kong Polytechnic University. [(Download)](Thesis.pdf)
+
 <h3>Peer-reviewed journal articles</h3>
 
 * Joo, Ian (2023). "The sound symbolism of food: the frequency of initial /PA-/ in words for (staple) food". In: <em>Linguistics</em>, 61.1, pp. 33-46. DOI: [10.1515/ling-2021-0127](https://doi.org/10.1515/ling-2021-0127) [(Download)](joo2023sound.pdf)
