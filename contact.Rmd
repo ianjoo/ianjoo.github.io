@@ -6,4 +6,4 @@ title: "Contact"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-E-mail: ian_joo@nucba.ac.jp
+E-mail: joo@res.otaru-uc.ac.jp
