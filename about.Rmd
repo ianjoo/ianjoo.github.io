@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * I was born in [Daejeon](https://en.wikipedia.org/wiki/Daejeon), South Korea.
 
-* From September 2023, I am a lecturer at [Nagoya University of Commerce & Business](https://www.nucba.ac.jp/en/). From April 2024, I will be an associate professor at [Otaru University of Commerce](https://english.otaru-uc.ac.jp/).
+* I am an associate professor at the [Otaru University of Commerce](https://english.otaru-uc.ac.jp/).
 
 * My field of expertise is **linguistic typology**. My research interests are mainly **linguistic iconicity** and **areal linguistics**. In other words, I am interested in (i) the resemblance between form and meaning and (ii) how languages that are spoken close by develop similarities or dissimilarities.
 
