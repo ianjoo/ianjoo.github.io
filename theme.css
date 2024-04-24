@@ -114,6 +114,7 @@ d-title {
   background-image: url(Otaru.jpeg);
   background-repeat: repeat;
   background-size: 1500pt;
+  background-position: center;
   height: 300px;
   color: white;
 }
