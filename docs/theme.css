@@ -46,7 +46,7 @@ All rows must end with a semi-colon.                      */
     --aside-size:      12px;
     --fig-cap-size:    13px;
     /*-- Main font colors --*/
-      --title-color:     darkorange;
+      --title-color:     white;
     --header-color:    rgba(0, 0, 0, 0.8);
     --body-color:      rgba(0, 0, 0, 0.8);
     --aside-color:     rgba(0, 0, 0, 0.6);
@@ -85,7 +85,7 @@ All rows must end with a semi-colon.                      */
   
   .distill-site-header {
     --title-size:       18px;
-    --text-color:       darkorange;
+    --text-color:       skyblue;
       --text-size:        15px;
     --hover-color:      black;
     --bkgd-color:       white;
@@ -95,7 +95,7 @@ All rows must end with a semi-colon.                      */
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      rgba(0, 0, 0, 1);
-  --bkgd-color:       darkorange;
+  --bkgd-color:       skyblue;
 }
 
 /*-- Additional custom styles --*/
@@ -111,10 +111,10 @@ All rows must end with a semi-colon.                      */
 }
 
 d-title {
-  background-color: rgba(255, 255, 255, 1);
-  background-image: url(Light.png);
-  background-repeat: no-repeat;
-  height: 100px;
+  background-image: url(Otaru.jpeg);
+  background-repeat: repeat;
+  background-size: 1500pt;
+  height: 300px;
   color: white;
 }
 
@@ -196,7 +196,7 @@ d-appendix .citation-appendix {
   }
 
 code span.fu, code span.kw {
-  color: darkorange;
+  color: skyblue;
 }
 
 div.sourceCode {
