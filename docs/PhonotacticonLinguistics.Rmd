@@ -852,7 +852,7 @@ PhonoK4 <- EurasiaMap +
 
 PhonoK4
 
-ggsave('PhonoK4.pdf', plot = PhonoK2, device = 'pdf', width = 7, height = 5)
+ggsave('PhonoK4.pdf', plot = PhonoK4, device = 'pdf', width = 7, height = 5)
 ```
 
 # Multidimensional scaling
