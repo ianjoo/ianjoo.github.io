@@ -753,6 +753,8 @@ PhonoDist <- ONCT_distance %>%
   select(Lect_vs_Lect, Distance)
 
 PhonoDist
+
+write.csv(PhonoDist, 'PhonoDist.csv')
 ```
 
 # Clustering the lects
@@ -817,6 +819,8 @@ PhonoK2 <- EurasiaMap +
             show.legend = FALSE) 
 
 PhonoK2
+
+ggsave('PhonoK2.pdf', plot = PhonoK2, device = 'pdf', width = 7, height = 5)
 ```
 
 Three clusters on the map.
@@ -831,6 +835,8 @@ PhonoK3 <- EurasiaMap +
             show.legend = FALSE)
 
 PhonoK3
+
+ggsave('PhonoK3.pdf', plot = PhonoK3, device = 'pdf', width = 7, height = 5)
 ```
 
 Four clusters on the map.
@@ -845,6 +851,8 @@ PhonoK4 <- EurasiaMap +
             show.legend = FALSE)
 
 PhonoK4
+
+ggsave('PhonoK4.pdf', plot = PhonoK2, device = 'pdf', width = 7, height = 5)
 ```
 
 # Multidimensional scaling
@@ -875,6 +883,8 @@ PhonoMDSplot <- plot_ly(
 )
 
 PhonoMDSplot
+
+saveWidget(PhonoMDSplot, 'PhonoMDS.html')
 ```
 
 
@@ -891,6 +901,8 @@ PhonoDendro <- PhonoDistNumbers %>%
   theme(axis.text.x = element_blank())
 
 PhonoDendro
+
+ggsave('PhonoDendro.pdf', plot = PhonoDendro, device = 'pdf', width = 5, height = 40)
 ```
 
 # Correlation between phonological and geographical distances
@@ -1009,6 +1021,8 @@ BurushaskiMap <- EurasiaMap +
   scale_color_gradient(low = 'red', high = 'black')
 
 BurushaskiMap
+
+ggsave('BurushaskiMap.pdf', plot = BurushaskiMap, device = 'pdf', width = 7, height = 5)
 ```
 
 
@@ -1053,6 +1067,8 @@ AreaMap <- EurasiaMap +
   theme(legend.position = 'bottom')
 
 AreaMap
+
+ggsave('AreaMap.pdf', plot = AreaMap, device = 'pdf', width = 7, height = 5)
 ```
 
 The goal is to train a model based on phonological distance to see how well it predicts which one of these six areas a lect is spoken.
@@ -1257,6 +1273,8 @@ AreaPredictionMap <- EurasiaMap +
   theme(legend.position = 'bottom')
 
 AreaPredictionMap
+
+ggsave('AreaPredictionMap.pdf', plot = AreaPredictionMap, device = 'pdf', width = 7, height = 5)
 ```
 
 # Grambank
@@ -1398,6 +1416,8 @@ GramK2 <- EurasiaMap +
             show.legend = FALSE)
 
 GramK2
+
+ggsave('GramK2.pdf', plot = GramK2, device = 'pdf', width = 7, height = 5)
 ```
 
 K3 map.
@@ -1411,6 +1431,8 @@ GramK3 <- EurasiaMap +
             show.legend = FALSE)
 
 GramK3
+
+ggsave('GramK3.pdf', plot = GramK3, device = 'pdf', width = 7, height = 5)
 ```
 
 K4 map.
@@ -1424,6 +1446,8 @@ GramK4 <- EurasiaMap +
             show.legend = FALSE)
 
 GramK4
+
+ggsave('GramK4.pdf', plot = GramK4, device = 'pdf', width = 7, height = 5)
 ```
 
 The Glottocodes of the intersecting lects.
