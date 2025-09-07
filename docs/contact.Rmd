@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+E-mail: joo@res.otaru-uc.ac.jp

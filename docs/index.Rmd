@@ -1,0 +1,12 @@
+---
+title: "Ian Joo"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](profile.jpg){ width=20% }
+
+Welcome to the website of Ian Joo, a linguistic typologist.

@@ -19,3 +19,10 @@ navbar:
     - text: "Contact"
       href: contact.html
 output: distill::distill_article
+
+include:
+  - index.Rmd
+  - about.Rmd
+  - publications.Rmd
+  - artworks.Rmd
+  - contact.Rmd
