@@ -754,7 +754,7 @@ PhonoDist <- ONCT_distance %>%
 
 PhonoDist
 
-write.csv(PhonoDist, 'PhonoDist.csv')
+write.csv(PhonoDist, 'PhonoDist.csv', row.names = FALSE)
 ```
 
 # Clustering the lects
