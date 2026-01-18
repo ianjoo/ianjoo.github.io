@@ -18,4 +18,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 * Currently, I am focusing on building and analyzing [Phonotacticon](https://zenodo.org/records/10623743), a cross-linguistic database of phonotactic information.
 
-* While not doing research, I enjoy hiking, painting, traveling, playing badminton, reading novels, and watching Disney films.
+* While not doing research, I enjoy hiking, painting, traveling, playing tennis, reading novels, and watching Disney films.

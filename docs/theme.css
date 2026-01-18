@@ -85,7 +85,7 @@ All rows must end with a semi-colon.                      */
   
   .distill-site-header {
     --title-size:       18px;
-    --text-color:       skyblue;
+    --text-color:       black;
       --text-size:        15px;
     --hover-color:      black;
     --bkgd-color:       white;
@@ -95,7 +95,7 @@ All rows must end with a semi-colon.                      */
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      rgba(0, 0, 0, 1);
-  --bkgd-color:       skyblue;
+  --bkgd-color:       black;
 }
 
 /*-- Additional custom styles --*/
@@ -111,9 +111,9 @@ All rows must end with a semi-colon.                      */
 }
 
 d-title {
-  background-image: url(Otaru.jpeg);
-  background-repeat: repeat;
-  background-size: 1500pt;
+  background-image: url(Hokkaido.jpg);
+  background-repeat: no-repeat;
+  background-size: 1200pt;
   background-position: center;
   height: 300px;
   color: white;
@@ -197,7 +197,7 @@ d-appendix .citation-appendix {
   }
 
 code span.fu, code span.kw {
-  color: skyblue;
+  color: black;
 }
 
 div.sourceCode {
