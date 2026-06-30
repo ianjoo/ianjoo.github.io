@@ -4,7 +4,7 @@ title: "Publications"
 
 <h3>Peer-reviewed journal articles</h3>
 
-* Joo, Ian and Yu-Yin Hsu (ahead of print). "Phonological distances between Eurasian lects measured via Phonotacticon 1.0 reveal areal patterns". In: <em>Linguistics</em>. DOI: [10.1515/ling-2024-0157](https://doi.org/10.1515/ling-2024-0157) [(Download)](joo2026phonological.pdf)
+* Joo, Ian and Yu-Yin Hsu (2026). "Phonological distances between Eurasian lects measured via Phonotacticon 1.0 reveal areal patterns". In: <em>Linguistics</em>, 64:3, pp. 569-601 DOI: [10.1515/ling-2024-0157](https://doi.org/10.1515/ling-2024-0157) [(Download)](joo2026phonological.pdf)
 
 * Joo, Ian and Yu-Yin Hsu (2025). "Phonotacticon: a cross-linguistic phonotactic database". In: <em>Linguistic Typology</em>, 29.2, pp. 405-431. DOI: [10.1515/lingty-2023-0094](https://doi.org/10.1515/lingty-2023-0094) [(Download)](joo2025phonotacticon.pdf)
 
